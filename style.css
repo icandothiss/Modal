@@ -71,3 +71,8 @@ div {
   height: 100px;
   background-color: red;
 }
+@media (max-width: 800px) {
+  #container {
+    width: 90%;
+  }
+}
